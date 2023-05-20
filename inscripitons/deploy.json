@@ -1,0 +1,11 @@
+{ 
+  "p": "orc-20",
+  "tick": "orcp",
+  "id": "1",
+  "name": "ORC Protocol",
+  "op": "deploy",
+  "max": "100000000000",
+  "lim": "100000000000",
+  "ug": "false",
+  "msg": "https://orcprotocol.org"
+}
